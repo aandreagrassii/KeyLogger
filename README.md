@@ -11,3 +11,7 @@ Modificare la stringa contenente il nome del file per poter cambiare nome al fil
 E' necessario installare pynput:
 pip3 install pynput
 
+In caso su windows non si avessero i permessi di amministratore eseguire: winget install --id Python.Python.3.13 --scope user
+
+E successivamente: pip3 install pynput
+
